@@ -8,7 +8,7 @@ All exercises based on the following HTML structure (do not change the HTML stru
 
 
 HTML:
-```
+```html
 <div id="container">
 	<div id="header">Header</div>
 	<div id="wrapper">
@@ -21,7 +21,7 @@ HTML:
 ```
 
 CSS:
-```
+```css
 #container { 
     font-size: 12px; 
     font-family: arial, sans-serif;
