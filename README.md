@@ -64,11 +64,16 @@ p {
 
 ### 1.Three percentage columns(n.1)
 
-There are three elements: <wrapper>, <navigation> and <extra>
+There are three elements: *wrapper*, *navigation* and *extra*
 
 Guide:
 
-Set the width of <wrapper> to 50% and horizontally center the <wrapper> element.
-Set width of <navigation> and <extra> to 25%, <navigation> on the left side of <wrapper>, <extra> on the right.
+Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
+Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
+
+Example:
+
+！[alt](https://camo.githubusercontent.com/d0f13a8302f280ce4eae9216a4be2969e9271334/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031352f30382f31342f353563643962633731633436352e706e67)
+
 
 
