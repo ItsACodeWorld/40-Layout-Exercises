@@ -4,7 +4,7 @@
 
 This layout exercise is created by [@byr-gdp](https://github.com/byr-gdp/40LayoutExercise) , this is an English vrsion translated by me.
 
-All exercises based on the following HTML structure (do not change the HTML structure, or it will lose the meaning of practice)
+All exercises based on the following HTML structure (do not change the HTML structure, or it will lose the meaning of practice), all you need to do is writing css in *layout* area to change the layout of the page. 
 
 
 HTML:
@@ -22,6 +22,7 @@ HTML:
 
 CSS:
 ```css
+/*basic style*/
 #container { 
     font-size: 12px; 
     font-family: arial, sans-serif;
@@ -54,8 +55,11 @@ p {
     line-height: 14px; 
     margin: 0px;
 }
+
+/* Layout */
+
 ```
----
+
 ## Exercises
 
 
