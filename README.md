@@ -4,7 +4,7 @@
 
 This layout exercise is created by [@byr-gdp](https://github.com/byr-gdp/40LayoutExercise) , this is an English vrsion translated by me.
 
-All exercises based on the following HTML structure (do not change the HTML structure, or it will lose the meaning of practice), all you need to do is writing css in *layout* area to change the layout of the page. 
+All exercises based on the following HTML structure (do not change the HTML structure, or it will lose the meaning of practice), all you need to do is to add css code in *layout* area to change the layout of the page. 
 
 
 HTML:
