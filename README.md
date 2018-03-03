@@ -1,5 +1,4 @@
 # 40-Layout-Exercises
-------
 
 ##Intro:
 This layout exercise is created by [@byr-gdp](https://github.com/byr-gdp/40LayoutExercise) , this is an English vrsion translated by me.
