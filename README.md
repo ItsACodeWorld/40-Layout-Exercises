@@ -62,4 +62,13 @@ p {
 
 ## Exercises
 
+### 1.Three percentage columns(n.1)
+
+There are three elements: <wrapper>, <navigation> and <extra>
+
+Guide:
+
+Set the width of <wrapper> to 50% and horizontally center the <wrapper> element.
+Set width of <navigation> and <extra> to 25%, <navigation> on the left side of <wrapper>, <extra> on the right.
+
 
