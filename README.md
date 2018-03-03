@@ -68,12 +68,24 @@ There are three elements: *wrapper*, *navigation* and *extra*
 
 Guide:
 
-Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
-Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
+1.Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
+2.Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
 
 Example:
 
 ![image](https://camo.githubusercontent.com/d0f13a8302f280ce4eae9216a4be2969e9271334/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031352f30382f31342f353563643962633731633436352e706e67)
+
+
+### 2. Three percentage columns(n.2)
+
+Guide:
+
+1.Exchanges positions of *navigation* and *extra* on the basis of exercise 1.
+
+Example:
+
+![image](https://camo.githubusercontent.com/c17a393a96b977e92e0fd21c1cfccbe607716ca7/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031352f30382f31342f353563643962633131653462622e706e67)
+
 
 
 
