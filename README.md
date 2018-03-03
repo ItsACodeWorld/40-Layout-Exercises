@@ -56,7 +56,7 @@ p {
     margin: 0px;
 }
 
-/* Layout */
+/* layout */
 
 ```
 
