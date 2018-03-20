@@ -1,4 +1,5 @@
-# 40-Layout-Exercises
+# 40 Layout Exercises
+[![GitHub license](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/char1eschen/40-Layout-Exercises/blob/master/LICENSE.md)
 
 ## Intro:
 
