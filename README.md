@@ -88,5 +88,27 @@ Example:
 ![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_2.html.png)
 
 
+### 3.Three percentage columns(n.3)
 
+There are three elements: *content*, *navigation* and *extra*
+
+Guide:
+
+Set the *wrapper* aligned left and width to 50%,
+*navigation*, *extra* width to 25%，arrange them on the right side of *content* in order.
+
+Example:
+
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_3.html.png)
+
+
+### 4. Three percentage columns(n.4)
+
+Guide:
+
+1.Exchanges positions of *navigation* and *extra* on the basis of exercise 2.
+
+Example:
+
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_4.html.png)
 
