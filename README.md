@@ -74,7 +74,7 @@ Guide:
 
 Example:
 
-![image](https://camo.githubusercontent.com/d0f13a8302f280ce4eae9216a4be2969e9271334/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031352f30382f31342f353563643962633731633436352e706e67)
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_1.html.png)
 
 
 ### 2. Three percentage columns(n.2)
@@ -85,7 +85,7 @@ Guide:
 
 Example:
 
-![image](https://camo.githubusercontent.com/c17a393a96b977e92e0fd21c1cfccbe607716ca7/68747470733a2f2f6f6f6f2e306f302e6f6f6f2f323031352f30382f31342f353563643962633131653462622e706e67)
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_2.html.png)
 
 
 
