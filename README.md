@@ -69,8 +69,8 @@ There are three elements: *wrapper*, *navigation* and *extra*
 
 Guide:
 
-1.Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
-2.Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
+1. Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
+2. Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
 
 Example:
 
@@ -81,12 +81,34 @@ Example:
 
 Guide:
 
-1.Exchanges positions of *navigation* and *extra* on the basis of exercise 1.
+1. Exchanges positions of *navigation* and *extra* on the basis of exercise 1.
 
 Example:
 
 ![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_2.html.png)
 
 
+### 3.Three percentage columns(n.3)
 
+There are three elements: *content*, *navigation* and *extra*
+
+Guide:
+
+1. Set the *wrapper* aligned left and width to 50%,
+2. Set width of *navigation*, *extra* to 25%，arrange them on the right side of *content* in order.
+
+Example:
+
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_3.html.png)
+
+
+### 4. Three percentage columns(n.4)
+
+Guide:
+
+1. Exchanges positions of *navigation* and *extra* on the basis of exercise 2.
+
+Example:
+
+![image](https://github.com/char1eschen/40-Layout-Exercises/blob/master/images/40LayoutExercise-master_exrcise_4.html.png)
 
