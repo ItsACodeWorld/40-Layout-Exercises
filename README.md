@@ -69,8 +69,8 @@ There are three elements: *wrapper*, *navigation* and *extra*
 
 Guide:
 
-1.Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
-2.Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
+1. Set the width of *wrapper* to 50% and horizontally center the *wrapper* element.
+2. Set width of *navigation* and *extra* to 25%, *navigation* on the left side of *wrapper*, *extra* on the right.
 
 Example:
 
@@ -81,7 +81,7 @@ Example:
 
 Guide:
 
-1.Exchanges positions of *navigation* and *extra* on the basis of exercise 1.
+1. Exchanges positions of *navigation* and *extra* on the basis of exercise 1.
 
 Example:
 
@@ -94,8 +94,8 @@ There are three elements: *content*, *navigation* and *extra*
 
 Guide:
 
-Set the *wrapper* aligned left and width to 50%,
-*navigation*, *extra* width to 25%，arrange them on the right side of *content* in order.
+1. Set the *wrapper* aligned left and width to 50%,
+2. Set width of *navigation*, *extra* to 25%，arrange them on the right side of *content* in order.
 
 Example:
 
@@ -106,7 +106,7 @@ Example:
 
 Guide:
 
-1.Exchanges positions of *navigation* and *extra* on the basis of exercise 2.
+1. Exchanges positions of *navigation* and *extra* on the basis of exercise 2.
 
 Example:
 
